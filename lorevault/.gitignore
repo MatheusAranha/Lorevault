@@ -40,3 +40,12 @@ Thumbs.db
 
 .nx/cache
 .nx/workspace-data
+
+# Terraform
+lorevault/apps/terraform-app/.terraform
+lorevault/apps/terraform-app/terraform.state
+lorevault/apps/terraform-app/terraform.state.backup
+lorevault/apps/terraform-app/service-account-credentials.json
+lorevault/apps/terraform-app/*.tfplan
+lorevault/apps/terraform-app/*.log
+lorevault/apps/terraform-app/crash-*
